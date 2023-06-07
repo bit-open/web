@@ -13,8 +13,9 @@
 
 <style scoped>
 iframe {
-  width: 100vh;
-  height: 100vh;
+  position: absolute;
+  width: 100%;
+  height: 100%;
   border: none;
 }
 </style>

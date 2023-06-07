@@ -7,7 +7,7 @@
   </header>
 
   <main>
-    <iframe src="http://www.dongxing.fun:31204"></iframe>
+    <iframe src="https://www.dongxing.fun:31204"></iframe>
   </main>
 </template>
 

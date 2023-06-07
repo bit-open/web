@@ -1,14 +1,11 @@
 <script setup>
+import {ref} from 'vue'
 
+const url = ref('https://dongxing.fun:31204')
 </script>
 
 <template>
-  <header>
-  </header>
-
-  <main>
-    <iframe src="https://dongxing.fun:31204"></iframe>
-  </main>
+  <iframe src="{{url}}"></iframe>
 </template>
 
 <style scoped>

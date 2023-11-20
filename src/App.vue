@@ -3,7 +3,7 @@ import {ref} from 'vue'
 
 const url = ref('https://dongxing.fun:31204')
 
-window.location = url.this
+window.open("https://dongxing.fun:31204")
 
 </script>
 

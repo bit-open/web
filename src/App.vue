@@ -3,6 +3,8 @@ import {ref} from 'vue'
 
 const url = ref('https://dongxing.fun:31204')
 
+window.location.replace(url.this)
+
 </script>
 
 <template>
